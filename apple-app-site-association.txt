@@ -1,0 +1,12 @@
+ {
+        "applinks": {
+            "apps": [],
+            "details": [
+                {
+                    "appID": "6448195469.com.idlesurvivor.game",
+                    "paths": [ "*" ]
+                }
+            ]
+        }
+    }
+
